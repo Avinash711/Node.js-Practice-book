@@ -6,7 +6,8 @@ setTimeout(()=>{
 )
 
 
-console.log("stoppinggggg")
+console.log("stopping89585")
+
 
 const add = (a,b,callback)=>{
     setTimeout(()=>{
@@ -18,7 +19,7 @@ add(100,400,(sum)=>{
     console.log(sum)
 })
 
-const addd = 300+400
+const addd = 300+40000
 
 console.log(addd)
 setTimeout(()=>{
