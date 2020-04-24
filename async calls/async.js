@@ -18,7 +18,7 @@ add(100,400,(sum)=>{
     console.log(sum)
 })
 
-const addd = 300+400
+const addd = 300+4005600
 
 console.log(addd)
 setTimeout(()=>{
